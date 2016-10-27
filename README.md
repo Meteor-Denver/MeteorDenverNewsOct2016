@@ -5,5 +5,12 @@
 ###cool stuff
 
 ####react 
-* enzime
-* jest
+* Enzime
+* Jest
+* React Forms
+
+
+####Apollo
+* blaze/apollo client example
+* slack
+* Apollo Summit videos
